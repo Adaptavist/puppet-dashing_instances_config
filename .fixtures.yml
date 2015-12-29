@@ -1,0 +1,9 @@
+fixtures:
+  repositories:
+    stdlib:
+      repo: "https://github.com/Adaptavist/puppet-stdlib"
+    dashing:
+      repo: "https://github.com/Adaptavist/puppet-dashing"
+  symlinks:
+    dashing_instances_config: "#{source_dir}"
+
