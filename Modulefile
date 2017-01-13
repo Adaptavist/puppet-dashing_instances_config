@@ -1,5 +1,5 @@
 name 'adaptavist-dashing_instances_config'
-version '0.1.5'
+version '1.0.0'
 source 'git@bitbucket.org:Adaptavist/puppet-dashing_instances_config.git'
 author 'adaptavist'
 summary 'dashing_instances_config Module' 
