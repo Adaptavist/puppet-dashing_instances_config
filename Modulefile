@@ -1,5 +1,5 @@
 name 'adaptavist-dashing_instances_config'
-version '1.0.0'
+version '1.0.1'
 source 'git@bitbucket.org:Adaptavist/puppet-dashing_instances_config.git'
 author 'adaptavist'
 summary 'dashing_instances_config Module' 
@@ -9,3 +9,4 @@ project_page 'https://bitbucket.org/Adaptavist/puppet-dashing_instances_config'
 
 ## Add dependencies, if any:
 dependency 'rochaporto/dashing'
+dependency 'puppetlabs/stdlib'
